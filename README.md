@@ -27,3 +27,7 @@ O’Meara et al. Transcriptional Reversion of Cardiac Myocyte Fate During Mammal
 - Execution: `qsub run_qc.qsub`<br/>
 - Outputs: P0_1_1_fastqc.html, P0_1_2_fastqc.html<br/>
 - Generate quality control reports<br/>
+
+## Programmer
+## Analyst
+## Biologist
