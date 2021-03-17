@@ -29,5 +29,8 @@ O’Meara et al. Transcriptional Reversion of Cardiac Myocyte Fate During Mammal
 - Generate quality control reports<br/>
 
 ## Programmer
+### run_tophat.qsub
+- Dependencies: TOPHAT<br/>
+- 
 ## Analyst
 ## Biologist
